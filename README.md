@@ -1,4 +1,4 @@
 # develop
 This is my first Repository
 <br>
-auther-Lakpa Sherpa
+auther-Lakpa 
